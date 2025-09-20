@@ -4,19 +4,19 @@
       "nama": "Maikro",
       "uid": "user-001",
       "expired": "2025-12-31",
-      "limit": 100
+      "limit": 1
     },
     {
       "nama": "Andre",
       "uid": "user-002",
       "expired": "2025-11-30",
-      "limit": 50
+      "limit": 2
     },
     {
       "nama": "Kizz",
       "uid": "user-003",
       "expired": "2025-10-15",
-      "limit": 200
+      "limit": 3
     }
   ]
 }
